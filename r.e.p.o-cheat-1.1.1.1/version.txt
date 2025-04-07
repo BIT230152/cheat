@@ -1,0 +1,8 @@
+-------------------------
+version: 1.1.1.1
+title: [UPDATE 1.1.1.1 - New Functions + Fixes
+-------------------------
+smi.exe 9216
+SharpMonoInjector.dll 23040
+r.e.p.o.cheat.dll 91648
+-------------------------

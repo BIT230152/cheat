@@ -1,0 +1,58 @@
+2025-04-06 21:06:16,636 - INFO - Logging initialized successfully
+2025-04-06 21:06:16,638 - INFO - Launcher started
+2025-04-06 21:06:47,447 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-04-06 21:06:47,905 - DEBUG - https://api.github.com:443 "GET /repos/D4rkks/r.e.p.o-cheat/releases/latest HTTP/1.1" 200 1358
+2025-04-06 21:06:47,907 - INFO - Checking for updates
+2025-04-06 21:06:47,907 - INFO - Update detected: local_version=None, github_version=1.1.1.1, local_title=None, github_title=[UPDATE 1.1.1.1 - New Functions + Fixes
+2025-04-06 21:06:47,912 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-04-06 21:06:48,358 - DEBUG - https://github.com:443 "GET /D4rkks/r.e.p.o-cheat/releases/download/1.1.1.1/smi.exe HTTP/1.1" 302 0
+2025-04-06 21:06:48,361 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+2025-04-06 21:06:49,601 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/944080848/6fae5019-9680-4365-92a7-4e1ff01b217a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T140648Z&X-Amz-Expires=300&X-Amz-Signature=6acb6664af8d9320da39f4b0d84eea8dbdf82a844587c6239f428b3cee6c91a4&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dsmi.exe&response-content-type=application%2Foctet-stream HTTP/1.1" 200 9216
+2025-04-06 21:06:49,603 - INFO - Downloaded smi.exe, size=9216
+2025-04-06 21:06:49,604 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-04-06 21:06:50,087 - DEBUG - https://github.com:443 "GET /D4rkks/r.e.p.o-cheat/releases/download/1.1.1.1/SharpMonoInjector.dll HTTP/1.1" 302 0
+2025-04-06 21:06:50,089 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+2025-04-06 21:06:51,268 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/944080848/af1e15f0-252a-4c01-9d03-bb4b2bf494a8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T140649Z&X-Amz-Expires=300&X-Amz-Signature=6e44b7452139f2f99f8f3202480148897f2e9fdb7fca5fae98db5f2d5918c3fb&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DSharpMonoInjector.dll&response-content-type=application%2Foctet-stream HTTP/1.1" 200 23040
+2025-04-06 21:06:51,276 - INFO - Downloaded SharpMonoInjector.dll, size=23040
+2025-04-06 21:06:51,278 - DEBUG - Starting new HTTPS connection (1): github.com:443
+2025-04-06 21:06:51,747 - DEBUG - https://github.com:443 "GET /D4rkks/r.e.p.o-cheat/releases/download/1.1.1.1/r.e.p.o.cheat.dll HTTP/1.1" 302 0
+2025-04-06 21:06:51,748 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+2025-04-06 21:06:52,124 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/944080848/bd8eac35-b32f-4566-ab10-3e54032c9423?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T140651Z&X-Amz-Expires=300&X-Amz-Signature=5123716c8cfabefda882bf6f4496eb62c8ccc145f888cd5498aff83eba3a66fe&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dr.e.p.o.cheat.dll&response-content-type=application%2Foctet-stream HTTP/1.1" 200 91648
+2025-04-06 21:06:52,188 - INFO - Downloaded r.e.p.o.cheat.dll, size=91648
+2025-04-06 21:06:52,221 - INFO - Starting directly from C:/Users/ASUS/OneDrive/Máy tính/R.E.P.O v0.1.2 Online/REPO.exe
+2025-04-06 21:07:07,230 - INFO - Starting injection for DLL: r.e.p.o.cheat.dll
+2025-04-06 21:07:07,230 - INFO - Trying injection with command: smi.exe inject -p "REPO" -a "r.e.p.o.cheat.dll" -n r.e.p.o_cheat -c Loader -m Init
+2025-04-06 21:07:07,584 - INFO - Injection successful for r.e.p.o.cheat.dll into REPO
+2025-04-06 21:39:50,963 - INFO - Logging initialized successfully
+2025-04-06 21:39:50,966 - INFO - Launcher started
+2025-04-06 21:39:50,974 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-04-06 21:39:51,516 - DEBUG - https://api.github.com:443 "GET /repos/D4rkks/r.e.p.o-cheat/releases/latest HTTP/1.1" 200 1359
+2025-04-06 21:39:51,519 - INFO - Checking for updates
+2025-04-06 21:39:51,526 - INFO - All files verified and up to date
+2025-04-06 21:39:51,557 - INFO - Starting injection for DLL: r.e.p.o.cheat.dll
+2025-04-06 21:39:51,557 - INFO - Trying injection with command: smi.exe inject -p "REPO" -a "r.e.p.o.cheat.dll" -n r.e.p.o_cheat -c Loader -m Init
+2025-04-06 21:39:51,815 - INFO - Injection successful for r.e.p.o.cheat.dll into REPO
+2025-04-07 11:56:06,493 - INFO - Logging initialized successfully
+2025-04-07 11:56:06,502 - INFO - Launcher started
+2025-04-07 11:56:06,514 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-04-07 11:56:07,023 - DEBUG - https://api.github.com:443 "GET /repos/D4rkks/r.e.p.o-cheat/releases/latest HTTP/1.1" 200 1359
+2025-04-07 11:56:07,035 - INFO - Checking for updates
+2025-04-07 11:56:07,145 - INFO - All files verified and up to date
+2025-04-07 11:56:27,496 - INFO - Starting directly from F:/[HaDoanTV.Com]REPv0.1.2.1.ON/R.E.P.O/REPO.exe
+2025-04-07 11:56:42,529 - INFO - Starting injection for DLL: r.e.p.o.cheat.dll
+2025-04-07 11:56:42,529 - INFO - Trying injection with command: smi.exe inject -p "REPO" -a "r.e.p.o.cheat.dll" -n r.e.p.o_cheat -c Loader -m Init
+2025-04-07 11:56:42,825 - INFO - Injection successful for r.e.p.o.cheat.dll into REPO
+2025-04-07 13:56:45,259 - INFO - Starting directly from F:/[HaDoanTV.Com]REPv0.1.2.1.ON/R.E.P.O/REPO.exe
+2025-04-07 13:57:00,289 - INFO - Starting injection for DLL: r.e.p.o.cheat.dll
+2025-04-07 13:57:00,289 - INFO - Trying injection with command: smi.exe inject -p "REPO" -a "r.e.p.o.cheat.dll" -n r.e.p.o_cheat -c Loader -m Init
+2025-04-07 13:57:00,654 - INFO - Injection successful for r.e.p.o.cheat.dll into REPO
+2025-04-07 15:49:43,164 - INFO - Logging initialized successfully
+2025-04-07 15:49:43,170 - INFO - Launcher started
+2025-04-07 15:49:43,174 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-04-07 15:49:43,731 - DEBUG - https://api.github.com:443 "GET /repos/D4rkks/r.e.p.o-cheat/releases/latest HTTP/1.1" 200 None
+2025-04-07 15:49:43,734 - INFO - Checking for updates
+2025-04-07 15:49:43,740 - INFO - All files verified and up to date
+2025-04-07 15:49:43,793 - INFO - Starting directly from F:/[HaDoanTV.Com]REPv0.1.2.1.ON/R.E.P.O/REPO.exe
+2025-04-07 15:49:58,809 - INFO - Starting injection for DLL: r.e.p.o.cheat.dll
+2025-04-07 15:49:58,810 - INFO - Trying injection with command: smi.exe inject -p "REPO" -a "r.e.p.o.cheat.dll" -n r.e.p.o_cheat -c Loader -m Init
+2025-04-07 15:49:59,148 - INFO - Injection successful for r.e.p.o.cheat.dll into REPO
